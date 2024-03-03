@@ -14,7 +14,7 @@ A choice-driven narrative game / choose-your-own-adventure game.
 ![alt text](https://github.com/maryamsherif/unity-miniProject2/blob/main/screenshots/4.png?raw=true)
 
 ## Interactions
-![alt text](https://github.com/maryamsherif/unity-miniProject2/blob/main/screenshots/5.png?raw=true)
+![alt text](https://github.com/maryamsherif/unity-miniProject2/blob/main/screenshots/6.png?raw=true)
 
 ## Another Decision Point
-![alt text](https://github.com/maryamsherif/unity-miniProject2/blob/main/screenshots/6.png?raw=true)
+![alt text](https://github.com/maryamsherif/unity-miniProject2/blob/main/screenshots/5.png?raw=true)
